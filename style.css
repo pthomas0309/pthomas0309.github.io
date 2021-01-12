@@ -7,9 +7,11 @@ body{
   margin: 10% 20%
 }
 h1{
-  text-align: center;
+  text-align: left;
+  font-size: 25px;
   border-top: 0.5px solid #dddddd;
   border-bottom: 0.5px solid #dddddd;
+  color: #dddddd;
 }
 h4{
   line-height: 1
@@ -22,10 +24,12 @@ h6{
 }
 p{
   text-indent: 25px;
+  font-size:10px;
 }
 ul li{
   list-style-type: square;
   font-size: 10px;
+  text-align: left;
 }
 .exp-header{
   text-align: center;
