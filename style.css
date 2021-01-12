@@ -1,1 +1,26 @@
-
+body{
+  background: rgb(8,7,38);
+  background: linear-gradient(180deg, rgba(8,7,38,1) 0%, rgba(23,25,54,1) 50%, rgba(56,32,32,1) 100%);  
+  color: #0099FF;
+  line-height: 30px;
+  font-family: Arial, Courier, serif;
+  margin: 10% 20%
+}
+h1{
+  text-align: center;
+  border-top: 0.5px solid #dddddd;
+  border-bottom: 0.5px solid #dddddd;
+}
+.exp-header{
+  text-align: center;
+  border-left: 2px solid #99FF00;
+  border-right: 2px solid #99FF00;
+  line-height: 25px;
+  background-color: rgba(145,61,136, 0.5);
+  color: #CC0033;
+}
+.facts-header{
+  text-align: center;
+  line-height: 25px;
+  color: #99FF00
+}
